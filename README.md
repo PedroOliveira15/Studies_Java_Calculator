@@ -12,7 +12,8 @@ Calculadora com operações básicas.
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo,e executa-lo pela IDE:
 ```
-
+<linha de comando>
+```
 ## :soon: Implementação futura
 * Novas operações matemáticas
 
